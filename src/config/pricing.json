@@ -1,0 +1,93 @@
+[{
+  "free": {
+    "id": "Starter",
+    "name": "Starter",
+    "label": "Starter",
+    "price": {
+      "monthly": 0,
+      "yearly": 0
+    },
+    "currency": "INR",
+    "platform_fee_percent": 5,
+    "pg_charges_included_percent": 2,
+    "features": [
+      "Unlimited Events",
+      "Unlimited Registrations",
+      "Event pages",
+      "Ticketing (paid/free)",
+      "Attendee management",
+      "Check-in system",
+      "Payout dashboard",
+      "Email notifications",
+      "Dashboard & Analytics",
+      "3% platform fee for paid events",
+      "Unlimited cohosts and event managers",
+      "Import & export data via CSV"
+      
+    ],
+    "limits": {
+      "team_members": 1
+    },
+    "ai_features": false,
+    "whatsapp": false,
+    "zoom": false,
+    "white_label": false,
+    "best_for": "Small creators, NGOs, community events"
+  },
+
+  "pro": {
+    "id": "Pro",
+    "name": "Pro",
+    "label": "Pro",
+    "price": {
+      "monthly": 1499,
+      "yearly": 14999
+    },
+    "currency": "INR",
+    "pg_charges_separate": true,
+    "features": [
+      "All Free plan features",
+      "AI event page generator",
+      "Custom URL for event page",
+      "AI attendee insights",
+      "WhatsApp reminders & ticket delivery",
+      "Zoom & Google Meet integration",
+      "Badge & Certificate designer",
+      "Custom ticket rules",
+      "SMS & WhatsApp integration",
+      "Priority support",
+      "Marketing and Promotion",
+      "Group tickets and coupons"
+    ],
+    "best_for": "Training companies, agencies, professional organizers"
+  },
+
+  "enterprise": {
+    "id": "Enterprise",
+    "name": "Enterprise",
+    "label": "Enterprise",
+    "price": {
+      "monthly": null,
+      "yearly": null
+    },
+    "currency": "INR",
+    "platform_fee_percent": 0,
+    "custom_pricing": true,
+    "features": [
+      "All Pro features",
+      "Full white-label solution",
+      "Custom domain",
+      "Custom feature development",
+      "API integrations",
+      "Dedicated account manager",
+      "Official WhatsApp API",
+      "Custom payment gateway",
+      "SLA-backed support"
+    ],
+    "limits": {
+      "team_members": "unlimited"
+    },
+    "best_for": "Universities, corporates, large-scale events"
+  }
+}
+]

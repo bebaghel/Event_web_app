@@ -1,0 +1,18 @@
+[
+  { "label": "Business & Professional", "value": "business", "icon": "Briefcase" },
+  { "label": "Entertainment & Shows", "value": "entertainment", "icon": "Music" },
+  { "label": "Festivals & Cultural", "value": "festival", "icon": "PartyPopper" },
+  { "label": "Sports & Fitness", "value": "sports", "icon": "Dumbbell" },
+  { "label": "Education & Workshops", "value": "education", "icon": "GraduationCap" },
+  { "label": "Community & Social", "value": "community", "icon": "Users" },
+  { "label": "Spiritual & Religious", "value": "spiritual", "icon": "Sparkles" },
+  { "label": "Travel & Adventure", "value": "adventure", "icon": "Mountain" },
+  { "label": "Food & Beverage", "value": "food", "icon": "UtensilsCrossed" },
+  { "label": "Technology & Innovation", "value": "technology", "icon": "Cpu" },
+  { "label": "Health & Wellness", "value": "wellness", "icon": "HeartPulse" },
+  { "label": "Art & Exhibitions", "value": "art", "icon": "Palette" },
+  { "label": "Networking & Meetups", "value": "networking", "icon": "Handshake" },
+  { "label": "Charity & Fundraising", "value": "charity", "icon": "HeartHandshake" },
+  { "label": "Personal Events", "value": "personal", "icon": "Home" },
+  { "label": "Other / Miscellaneous", "value": "other", "icon": "MoreHorizontal" }
+]

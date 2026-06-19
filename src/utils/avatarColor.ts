@@ -1,0 +1,37 @@
+export const getAvatarColor = (name: string) => {
+  const colors = [
+    "bg-pink-500",
+    "bg-blue-500",
+    "bg-green-500",
+    "bg-purple-500",
+    "bg-yellow-500",
+    "bg-red-500",
+    "bg-indigo-500",
+    "bg-teal-500",
+    "bg-pink-300",
+    "bg-blue-300",
+    "bg-green-300",
+    "bg-purple-300",
+    "bg-yellow-300",
+    "bg-red-300",
+    "bg-indigo-300",
+    "bg-teal-300",
+    "bg-cyan-300",
+    "bg-rose-300",
+    "bg-lime-300",
+    "bg-emerald-300",
+    "bg-orange-300",
+    "bg-sky-300",
+    "bg-fuchsia-300",
+    "bg-violet-300",
+    "bg-amber-300",
+    "bg-zinc-300",
+    "bg-stone-300",
+    "bg-blue-100",
+    "bg-pink-100",
+    "bg-purple-100",
+    "bg-green-100",
+  ];
+  const index = name?.toLowerCase().charCodeAt(0) % colors.length;
+  return colors[index];
+};
