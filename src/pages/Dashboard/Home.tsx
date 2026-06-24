@@ -30,7 +30,7 @@ export default function Home() {
         {/* Left Section */}
         <div className="order-2 md:order-1 mt-0">
           <h1 className="text-3xl md:text-5xl lg:text-5xl  font-bold leading-tight text-gray-900 dark:text-white">
-            Create, Promote & Manage{" "}
+            Anand, Satyendra & Manage{" "}
             <span className="text-purple-900">Events</span> Effortlessly
           </h1>
 
